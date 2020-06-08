@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CareForU.iml" filepath="$PROJECT_DIR$/CareForU.iml" />
+      <module fileurl="file://F:/MediCare/Medi-Care.iml" filepath="F:/MediCare/Medi-Care.iml" group="Medi-Care" />
+      <module fileurl="file://F:/MediCare/app/MediCare.app.iml" filepath="F:/MediCare/app/MediCare.app.iml" group="Medi-Care/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
